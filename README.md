@@ -1,3 +1,9 @@
+# me-tube-200
+Nuxt 3 **X** laravel communicate using API
+
+<!-- pain >m< -->
+
+---
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
